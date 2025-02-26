@@ -7,7 +7,7 @@
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroFernandes105&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=10)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFernandes105)](https://github.com/LeandroFernandes105/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFernandes105&cache_seconds=10)
 ## Tecnolgoias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
