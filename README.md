@@ -1,7 +1,7 @@
 ### oi! eu sou o leandro fernandes 👋🏼
 
 [![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-fernandes-pereira-da-silva-86230422a/)  
-[![gmail](https://img.shields.io/badge/gmail-lfernandes1898@gmail.com-d14836?style=flat&logo=gmail&logoColor=white)](mailto:lfernandes1898@gmail.com)
+📧 lfernandes1898@gmail.com
 
 ![leandro github stats](https://github-readme-stats.vercel.app/api?username=LeandroFernandes105&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=10)
 
