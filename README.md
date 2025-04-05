@@ -1,11 +1,9 @@
+### oi! eu sou o leandro fernandes 👋🏼
 
-### Oi! Eu sou o Leandro Fernandes👋🏼
+[![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-fernandes-pereira-da-silva-86230422a/)  
+[![gmail](https://img.shields.io/badge/gmail-lfernandes1898@gmail.com-d14836?style=flat&logo=gmail&logoColor=white)](mailto:lfernandes1898@gmail.com)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-fernandes-pereira-da-silva-86230422a/)
-
-
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroFernandes105&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=10)
-
+![leandro github stats](https://github-readme-stats.vercel.app/api?username=LeandroFernandes105&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=10)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFernandes105&cache_seconds=10)
 ## Tecnologias que eu uso:
@@ -22,11 +20,12 @@
 <img align="center"  alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center"  alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
+
 <img align="center"  alt="Power BI" src="https://camo.githubusercontent.com/4dab3efa70dca2c447bd94eab61efd3f9b39004f8a26c3f3413c6805b0b60d35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d626c61636b3f7374796c653d706c6173746963266c6f676f3d506f7765722d4249"/>
 </div>
 
 
-## Bibliotecase e Frameworks
+## Bibliotecase e Frameworks:
 <div style="display: inline_block"><br/>
 <img align="center"  alt="Jupyter" src="https://camo.githubusercontent.com/bbe2923c671f9c483e4c6f7213e9d0d74ecf32585ac6b385a8b9f93846f2511a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4a757079746572"/>
 <img align="center"  alt="Pandas" src="https://camo.githubusercontent.com/3a07293b4a074aea47c40eab00a27a48c8c72c99f533b9bafe4ba1d5f6670334/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50616e6461732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d50616e646173"/>
